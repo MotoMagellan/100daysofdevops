@@ -1,6 +1,7 @@
 # 100daysofdevops
 
 AWS
+---
 Day 1-Introduction to CloudWatch Metrics
 https://medium.com/faun/100-days-of-devops-day-1-introduction-to-cloudwatch-metrics-b04be36307a8
 
@@ -141,6 +142,7 @@ Day 98- AWS Lambda with Terraform Code http://100daysofdevops.com/100-days-of-de
 Day 99- AWS Boto3 http://100daysofdevops.com/100-days-of-devops-day-99-aws-boto3/
 
 Terraform
+---------
 Day 15- Introduction to Terraform
 https://medium.com/@devopslearning/100-days-of-devops-day-15-introduction-to-terraform-7a168dec8d38
 
@@ -163,6 +165,7 @@ Day 21- MySQL RDS Database Creation using Terraform
 https://medium.com/@devopslearning/100-days-of-devops-day-21-mysql-rds-database-creation-using-terraform-278eeaff339f
 
 CI-CD
+-----
 Day 27- Introduction to Packer
 https://medium.com/@devopslearning/100-days-of-devops-day-27-introduction-to-packer-d77089ecac01
 
@@ -170,6 +173,7 @@ Day 34- Terraform Pipeline using Jenkins
 https://medium.com/@devopslearning/100-days-of-devops-day-34-terraform-pipeline-using-jenkins-a3d81975730f
 
 BASH SCRIPTING
+--------------
 Day 51-Introduction to Bash Scripting
 https://medium.com/@devopslearning/100-days-of-devops-day-51-introduction-to-bash-scripting-9501ce7a32a4
 
@@ -189,6 +193,7 @@ Day 91-How to check if the file exists (Bash/Python)
 https://medium.com/@devopslearning/100-days-of-devops-day-91-how-to-check-if-the-file-exists-bash-python-ddc8087a3cbf
 
 Linux
+-----
 Day 54-And You Thought You Knew RPM
 https://medium.com/@devopslearning/100-days-of-devops-day-54-and-you-thought-you-knew-rpm-18e63e8aa4bc
 
@@ -223,15 +228,17 @@ Day 77-Process Management in Linux
 https://medium.com/@devopslearning/100-days-of-devops-day-77-process-management-in-linux-21aabae5b124
 
 Ansible
+-------
 Day 73- Introduction to Ansible
 https://medium.com/@devopslearning/100-days-of-devops-day-73-introduction-to-ansible-723ad630fcee
 
 GIT
+---
 Day 74- Introduction to GIT
-
 https://medium.com/@devopslearning/100-days-of-devops-day-74-introduction-to-git-9374bafb08b6
 
 Docker & Kubernetes
+-------------------
 Day 58-Docker Basics
 https://medium.com/@devopslearning/100-days-of-devops-day-58-docker-basics-d1c75cb84dc4
 
@@ -242,6 +249,7 @@ Day 72-Introduction to Kubernetes
 https://medium.com/@devopslearning/100-days-of-devops-day-72-introduction-to-kubernetes-9dda4009a0ab
 
 Jenkins
+-------
 Day 60-Introduction to Jenkins
 https://medium.com/@devopslearning/100-days-of-devops-day-60-introduction-to-jenkins-5afc0f700335
 
@@ -249,6 +257,7 @@ Day 61-Jenkins Agent Node
 https://medium.com/@devopslearning/100-days-of-devops-day-61-jenkins-agent-node-4b3779366767
 
 Python
+------
 Day 64- Regular Expression using Python
 https://medium.com/@devopslearning/100-days-of-devops-day-64-regular-expression-using-python-edf5a776fa74
 
@@ -292,6 +301,7 @@ Day 95-Introduction to Django
 https://medium.com/@devopslearning/100-days-of-devops-day-95-introduction-to-django-37942477d6c
 
 Miscellaneous
+-------------
 Day 75- Introduction to Fabric
 https://medium.com/@devopslearning/100-days-of-devops-day-75-introduction-to-fabric-2e80f5c3148f
 
